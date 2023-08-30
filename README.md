@@ -1,10 +1,10 @@
-#Hello HTMl
+# Hello HTMl
 
 Created a Heading called zoogle and input file type as text.
 
 added prettier in json file.
 
-##Styling css with id attribute
+## Styling css with id attribute
 
 ```
 #src {
