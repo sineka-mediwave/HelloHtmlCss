@@ -1,9 +1,15 @@
-body  {
+h1 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 300px;
+
 }
 
-#inp {
+#src {
     display: block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
 }
